@@ -1,0 +1,7 @@
+{
+  "prompt": "A highly realistic, National Geographic style photograph of a sprawling, flat desert landscape from a high angle. A paved asphalt highway stretches out, but instead of going in a straight line, the asphalt violently and precisely swerves, zig-zags, and loops in tight, chaotic curves. It is doing this specifically to pave directly over every single random, scattered small rock and pebble on the sand. The result is an absurd, completely un-drivable squiggly road that perfectly touches every pebble but ruins the highway. Photorealistic, 8k, sharp focus. No text, no cars, no labels, just the physical landscape and the chaotic road.",
+  "model": "Google Imagen 3",
+  "concept": "Overfitting",
+  "metaphor": "A paved highway that violently swerves and loops to intersect every scattered pebble in a desert, creating an un-drivable path that perfectly captures noise rather than the actual route.",
+  "publish_email": true
+}
