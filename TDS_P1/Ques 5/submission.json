@@ -1,0 +1,8 @@
+{
+  "prompt": "Deep underwater. A terrifying, monolithic, towering tsunami-like wall made entirely of millions of semi-translucent, suspended plastic bottles, bags, and synthetic debris, completely blocking out the sunlight from the ocean surface above. The sheer scale and volume of the suffocating plastic structure echoes a steep, unnatural exponential growth curve, dwarfing a single, tiny, fragile, glowing jellyfish in the lower corner. The mood is suffocating, claustrophobic, and apocalyptic. Photorealistic, cinematic lighting, emphasizing the sheer unstoppable volume of unnatural waste. No text, no charts, pure terrifying visual impact.",
+  "model": "Gemini 3.1 Pro",
+  "dataset_name": "Global plastic waste production, 1950 to 2015",
+  "dataset_url": "https://ourworldindata.org/plastic-pollution",
+  "insight": "Humanity is drowning in an unnatural, exponential tsunami of synthetic waste that entirely eclipses natural life.",
+  "publish_email": true
+}
